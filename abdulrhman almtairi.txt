@@ -1,0 +1,10 @@
+
+public class pokemon  {
+
+    private String pi;
+    private String name;
+     private int image;
+     private int attack;
+     private int defence;
+     private int total;
+    }
